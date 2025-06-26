@@ -16,6 +16,3 @@ A simple Frogger-style game built using Python's `turtle` module. Great for begi
 </p>
 
 
-
-```bash
-python main.py
